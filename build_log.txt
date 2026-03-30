@@ -1,0 +1,17 @@
+STDOUT:
+
+STDERR:
+304 INFO: PyInstaller: 5.13.2
+305 INFO: Python: 3.7.9
+305 INFO: Platform: Windows-10-10.0.26100-SP0
+305 INFO: wrote C:\Users\Moy\Documents\trae_projects\HTMLVIDEO\video_extractor.spec
+309 INFO: Extending PYTHONPATH with paths
+['C:\\Users\\Moy\\Documents\\trae_projects\\HTMLVIDEO']
+598 INFO: Appending 'datas' from .spec
+608 INFO: checking Analysis
+728 INFO: checking PYZ
+754 INFO: checking PKG
+867 INFO: Bootloader C:\Users\Moy\AppData\Roaming\Python\Python37\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+867 INFO: checking EXE
+
+RETURN CODE: 0
