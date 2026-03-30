@@ -9,7 +9,7 @@ from tkinterdnd2 import DND_FILES, TkinterDnD
 class VideoExtractorApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("视频提取工具")
+        self.root.title("HTML to Video")
         self.root.geometry("400x300")
         self.root.resizable(False, False)
 

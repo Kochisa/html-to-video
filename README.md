@@ -1,4 +1,4 @@
-# HTML Video Extractor
+# HTML to Video
 
 从HTML文件中提取Base64编码的视频数据，导出为MP4文件。
 
@@ -26,7 +26,7 @@ python extract_video.py
 
 ```bash
 pip install pyinstaller tkinterdnd2
-pyinstaller --onefile --windowed --name "视频提取工具" --add-data "%APPDATA%\Python\Python37\site-packages\tkinterdnd2\tkdnd;tkinterdnd2/tkdnd" --hidden-import tkinterdnd2 extract_video.py
+pyinstaller --onefile --windowed --name "HTML_to_Video" --add-data "%APPDATA%\Python\Python37\site-packages\tkinterdnd2\tkdnd;tkinterdnd2/tkdnd" --hidden-import tkinterdnd2 extract_video.py
 ```
 
-编译后的EXE在 `dist/视频提取工具.exe`。
+编译后的EXE在 `dist/HTML_to_Video.exe`。
